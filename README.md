@@ -7,7 +7,7 @@
 
 - 🌱 I'm on a journey to acquire proficiency in **full-stack development**
 
-- 💬 Ask me about **React, Nextjs, Angular, Nodejs**
+- 💬 Ask me about **Angular, ASP.NET Core, React, Nodejs**
 
 - 📫 How to reach me **iftekharcse95@gmail.com**
 
